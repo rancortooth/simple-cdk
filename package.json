@@ -1,8 +1,8 @@
 {
-  "name": "newproj",
+  "name": "simple-cdk",
   "version": "0.1.0",
   "bin": {
-    "newproj": "bin/newproj.js"
+    "simple-cdk": "bin/simple-cdk.js"
   },
   "scripts": {
     "build": "tsc",
