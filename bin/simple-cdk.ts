@@ -11,7 +11,6 @@ const app = new cdk.App();
 //   env: { account: '123456789012', region: 'us-east-1' }
 //
 
-
 new SimpleCdkStackAddSecurityGroupRule(app, 'SimpleCdkStackAddSecurityGroupRule', {
 
   env: { account: '123456789012', region: 'us-east-1' },

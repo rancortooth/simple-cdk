@@ -1,5 +1,7 @@
 # Simple-CDK: a collection of common CDK tasks with clean, simple code
 
+Please visit my blog for instructions and details!
+https://starshipfluke.com
 
 ## Useful commands
 
